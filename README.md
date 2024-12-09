@@ -3,7 +3,7 @@
 # Team Members
 Satyajyothi Achanta - Z23709570
 Manikanta Swamy Yedla - Z23709569
-Abhiram Reddy Neboori - Z23709570
+Abhiram Reddy Neboori - Z23749867
 
 ## Overview
 This tool implements edge detection algorithms for image retrieval using MATLAB and Python. It supports multiple datasets and provides a user-friendly GUI for non-technical users.
